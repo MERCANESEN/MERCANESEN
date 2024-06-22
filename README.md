@@ -17,18 +17,15 @@
 <p align="left"> 
   
   <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://keras.io/api/applications/" target="_blank"> <img src="https://keras.io/img/logo-small.png" alt="keras.io" width="40" height="40"/> </a> 
+  <a href="https://keras.io/api/applications/" target="_blank"> <img src="https://keras.io/img/logo-small.png" alt="keras.io" width="50" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.kali.org/" target="_blank"> <img src="https://www.bleepstatic.com/content/hl-images/2023/03/13/kali-moto.jpg" alt="kalilinux" width="40" height="40"/> </a> 
+  <a href="https://www.kali.org/" target="_blank"> <img src="https://www.bleepstatic.com/content/hl-images/2023/03/13/kali-moto.jpg" alt="kalilinux" width="60" height="50"/> </a> 
   <a href="https://www.microsoft.com/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://support.huaweicloud.com/intl/en-us/gaussdb/index.html" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:650/0*1OzUBLSUxBZ_cIO5.png" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.java.com/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="java" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/317776?s=200&v=4" alt="unity" width="40" height="40"/> </a> 
-  <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
+  <a href="https://www.java.com/tr/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="java" width="40" height="40"/> </a> 
+   <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
   <a href="https://dotnet.microsoft.com/apps/aspnet/signalr/" target="_blank"> <img src="https://dotnet.microsoft.com/static/images/illustrations/swimlane-azure-signalr-logo.svg" alt="signalr" width="40" height="40"/> </a>
