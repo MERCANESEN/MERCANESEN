@@ -4,7 +4,7 @@
 
 
 - 📫 How to reach me **mesen186@gmail.com**
--  I’m currently learning  .NET Core and AI modeling with Python
+-  I’m currently learning .NET Core and AI modeling with Python
   
 
 <h3 align="left">Connect with me:</h3>
