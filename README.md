@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mercan Esen</h1>
 <h3 align="center">Computer engineer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramazanbulbul&label=Profile%20views&color=0e75b6&style=flat" alt="ramazanbulbul" /> </p>
-<p align="left"> <a href="https://twitter.com/ramazanbulbll" target="_blank"><img src="https://img.shields.io/twitter/follow/ramazanbulbll?logo=twitter&style=for-the-badge" alt="ramazanbulbul" /></a> </p>
+
 
 
 - 📫 How to reach me **mesen186@gmail.com**
