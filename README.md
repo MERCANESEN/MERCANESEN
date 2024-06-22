@@ -17,7 +17,7 @@
 <p align="left"> 
   
   <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://keras.io/api/applications/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fdeep-learning-turkiye%2Fkeras-ile-nesne-tan%25C4%25B1ma-uygulamalar%25C4%25B1-5142e71aeadb&psig=AOvVaw0Q-r-iBAR1iqwPaL1slf_c&ust=1719140470321000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODZ4bmH74YDFQAAAAAdAAAAABAE" alt="keras.io" width="40" height="40"/> </a> 
+  <a href="https://keras.io/api/applications/" target="_blank"> <img src="https://keras.io/img/logo-small.png" alt="keras.io" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.kali.org/" target="_blank"> <img src="https://www.bleepstatic.com/content/hl-images/2023/03/13/kali-moto.jpg" alt="kalilinux" width="40" height="40"/> </a> 
