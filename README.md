@@ -3,9 +3,9 @@
 
 
 
-
 - 📫 How to reach me **mesen186@gmail.com**
 -  I’m currently learning  .NET Core and AI modeling with Python
+-  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,16 +21,11 @@
   <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
   <a href="https://www.kali.org/" target="_blank"> <img src="https://www.bleepstatic.com/content/hl-images/2023/03/13/kali-moto.jpg" alt="kalilinux" width="60" height="50"/> </a> 
   <a href="https://www.microsoft.com/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://support.huaweicloud.com/intl/en-us/gaussdb/index.html" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:650/0*1OzUBLSUxBZ_cIO5.png" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.java.com/tr/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="java" width="40" height="40"/> </a> 
-   <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://dotnet.microsoft.com/apps/aspnet/signalr/" target="_blank"> <img src="https://dotnet.microsoft.com/static/images/illustrations/swimlane-azure-signalr-logo.svg" alt="signalr" width="40" height="40"/> </a>
-  <a href="https://webrtc.org/" target="_blank"> <img src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png" alt="webrtc" width="40" height="40"/> </a>
-  <a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://store-images.s-microsoft.com/image/apps.53639.14392113910098879.68783c39-990f-4d51-8cdf-2af5517a7aad.562090c4-acfa-42bb-8d4b-b57693a7ef37?h=464" alt="rabbitmq" width="40" height="40"/> </a>
+   <a href="https://learn.microsoft.com/tr-tr/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-8.0" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:750/1*zc1BKfAHkpvrZlHPbUvuYA.png" alt="dotnet" width="70" height="40"/> </a> 
+  <a href="https://pypi.org/project/PyQt5/#:~:text=PyQt5%20is%20a%20comprehensive%20set,platforms%20including%20iOS%20and%20Android." target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Python_and_Qt.svg/1200px-Python_and_Qt.svg.png" alt="pyqt5" width="40" height="40"/> </a>
+  <a href="https://www.sap.com/turkey/index.html?url_id=auto_hp_redirect_turkey" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1200px-SAP_2011_logo.svg.png" alt="SAP" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
