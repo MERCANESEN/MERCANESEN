@@ -27,5 +27,6 @@
   <a href="https://pypi.org/project/PyQt5/#:~:text=PyQt5%20is%20a%20comprehensive%20set,platforms%20including%20iOS%20and%20Android." target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Python_and_Qt.svg/1200px-Python_and_Qt.svg.png" alt="pyqt5" width="40" height="40"/> </a>
   <a href="https://www.sap.com/turkey/index.html?url_id=auto_hp_redirect_turkey" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1200px-SAP_2011_logo.svg.png" alt="SAP" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://learn.microsoft.com/tr-tr/cpp/mfc/html-basics?view=msvc-170" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/270px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="40" height="40"/> </a> 
 </p>
 
